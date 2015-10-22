@@ -14,4 +14,5 @@ int main(){
 	cout << cipher_text << endl;
 	plain_text = s.dec(cipher_text,key);
 	cout << plain_text << endl;
+        retrun 0;
 }
